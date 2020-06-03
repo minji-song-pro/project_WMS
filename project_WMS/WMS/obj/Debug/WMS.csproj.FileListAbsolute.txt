@@ -1,0 +1,460 @@
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\obj\Debug\WMS.Product_Registration.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS\source\C#\WMS\WMS\obj\Debug\WMS.pdb
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\bin\Debug\WMS.exe.config
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\bin\Debug\WMS.exe
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\bin\Debug\WMS.pdb
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\bin\Debug\MySql.Data.dll
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\bin\Debug\MySql.Data.xml
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\obj\Debug\WMS.main.resources
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\obj\Debug\WMS.Product_Registration.resources
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\obj\Debug\WMS.exe
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408\WMS\obj\Debug\WMS.pdb
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\bin\Debug\WMS.exe.config
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\bin\Debug\WMS.exe
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\bin\Debug\WMS.pdb
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\bin\Debug\MySql.Data.dll
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\bin\Debug\MySql.Data.xml
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.barcode.resources
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.join.resources
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.main.resources
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.Product_Registration.resources
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.exe
+C:\Users\KCCI06\Desktop\SmartWarehouse\WMS_200408 - 복사본\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.barcode.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.join.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.Product_Registration.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200409 - 수정본\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.barcode.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.join.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.Product_Registration.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200414\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.Product_Registration.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200416\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.Product_Registration.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200417\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.Product_Registration.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200419\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.Product_Registration.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200420\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\RawInput.Form1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200422\[C#]WMS_200421_멀티키보드입력\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200423\[C#]WMS_200421_센서폼,바코드34추가적재방법추가\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\bin\Debug\WMS.exe.config
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\bin\Debug\WMS.exe
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\bin\Debug\WMS.pdb
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\bin\Debug\MySql.Data.dll
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\bin\Debug\MySql.Data.xml
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.main.resources
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.wms.resources
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.exe
+C:\Users\KCCI06\OneDrive\바탕 화면\[C#]WMS_200421_센서폼,바코드34추가적재방법추가_수정(19시)\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200424\[C#]WMS_200424\WMS\obj\Debug\WMS.pdb
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\bin\Debug\WMS.exe.config
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\bin\Debug\WMS.exe
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\bin\Debug\WMS.pdb
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.main.resources
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.wms.resources
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.exe
+C:\Users\Administrator\OneDrive\SongMinJi\team_project\source\date\200425-사본\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\team_project\source\date\200428\[C#]WMS_200425_UI\WMS\obj\Debug\WMS.customer_order.resources
+\\10.10.16.17\새 폴더\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+\\10.10.16.17\새 폴더\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.exe
+\\10.10.16.17\새 폴더\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.customer_order.resources
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\Desktop\200428_15시\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.customer_order.resources
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\Desktop\20042819시_합치기\200428_15시_wms수정\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.pdb
+\\10.10.16.17\새 폴더\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+\\10.10.16.17\새 폴더\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.exe
+\\10.10.16.17\새 폴더\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.customer_order.resources
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\Desktop\2020-04-28 합치기_19시\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.customer_order.resources
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\Desktop\2020-04-29 sensor 수정\200428_merge\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.customer_order.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-11\200511\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\bin\Debug\WMS.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\bin\Debug\MySql.Data.xml
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.customer_order.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.main.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Form1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.rfid.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.Sensor.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.wms.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.exe
+C:\Users\kccistc\OneDrive\SongMinJi\project\team_project\2020-05-13_통계탭 추가\200513\[C#]WMS_200428_UI\WMS\obj\Debug\WMS.pdb
